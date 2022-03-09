@@ -11,7 +11,7 @@ NIM : 123200123
 Kelas : PBO IF-D
 
 # Studi Kasus
-Program untuk menghitung volume dan luas permukaan balok dan tabung
+Program menghitung volume dan luas permukaan balok dan tabung
 
 Menu pertama untuk input panjang, lebar, dan tinggi balok yang kemudian akan memunculkan luas dan keliling persegi panjang serta volume dan luas permukaan balok.
 
