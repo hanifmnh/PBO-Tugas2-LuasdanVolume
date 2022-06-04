@@ -8,7 +8,7 @@ Nama : Muhammad Nur Hanif
 
 NIM : 123200123
 
-Kelas : PBO IF-D
+Kelas : PBO IF-F
 
 # Studi Kasus
 Program menghitung volume dan luas permukaan balok dan tabung
